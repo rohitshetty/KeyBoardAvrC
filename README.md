@@ -19,6 +19,11 @@ gnd to gnd <p>
 code is for 12MHz
 For connecting Bluetooth.
 connect HC05 module as Standard procedure.(using uart)
+Schematics doesnt show the regular set up of Crystals and power. It is assumed to be self explanatory if any issues you can always reach me at 
+<pre> rohitfoss00@gmail.com </pre>
+
+
+
 (schematics <pre> http://postimg.org/image/dnjcomi0z/ </pre>
 more data about ps2 protocols and pinout config for your connector is found at <pre> http://www.computer-engineering.org/ps2protocol/ </pre>
 
